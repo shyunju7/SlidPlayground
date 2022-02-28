@@ -1,7 +1,7 @@
 # SlidPlayground
-Participation in Startup Challenge and Service Development
+- 스타트업 챌린지 참여 및 슬리드 Playground 서비스 개발
 
-## 구현한 기능
+## 서비스 기능 중 구현한 부분
 
 ### 👉 Editor 기능 및 Markdown 변환
 ![slid-1](https://user-images.githubusercontent.com/38373150/155962789-4125b3ce-f0df-4758-9770-7d4e8b197cce.gif)
@@ -23,3 +23,8 @@ Participation in Startup Challenge and Service Development
 ![slid-3](https://user-images.githubusercontent.com/38373150/155957616-b9298e9e-de5f-4c24-9a71-75b543a468e6.gif)
 <br/>
 - [x] 작성된 docs 다운로드 기능(Pdf/docs/images/markdown)
+
+
+### 기술 스택
+| React | Javascript | CSS-Module | EditorJS |
+| ------------ | ------------ | ------------ | ------------ | 
